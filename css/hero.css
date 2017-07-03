@@ -1,0 +1,19 @@
+header{
+	background-color: #FF5733;
+	padding: 40px;
+
+
+}
+h1{
+	font-size: 90px;
+	color: #693D14;
+
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 20px solid#693D14;
+
+}
+
